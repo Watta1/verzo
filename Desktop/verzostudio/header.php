@@ -10,7 +10,7 @@
  */
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html>.
 <html lang="en">
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>">
